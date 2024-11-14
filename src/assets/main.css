@@ -1,0 +1,11 @@
+@import './base.css';
+
+@font-face {
+  font-family: 'Reenie Beanie';
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src:
+    local('Reenie Beanie'),
+    url('/fonts/ReenieBeanie-Regular.ttf') format('truetype');
+}
